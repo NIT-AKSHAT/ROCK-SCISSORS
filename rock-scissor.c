@@ -4,7 +4,7 @@
 #include <time.h>
 #include <windows.h>
 #include <ctype.h>
-
+//123
 #define PRINT_SPACES(n) printf("   %*s  ", n, "")
 #define print_spaces(n) printf("   -%*s   ", n, "")
 
